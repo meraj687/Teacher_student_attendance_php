@@ -26,6 +26,7 @@
  <div class="panel panel-default container">
   <div class="panel-heading">
     <h1 style="text-align : center">Attendance Management System</h1>
+    <h4 style="text-align : center"> Teacher Attendance</h4>
     <p style="text-align : center">Semester 5</p>
   </div>
 
